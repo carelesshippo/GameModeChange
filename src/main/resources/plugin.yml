@@ -1,0 +1,4 @@
+name: Gamemodechange
+version: ${project.version}
+main: me.ohowe.gamemodechange.GameModeChange
+api-version: 1.17
